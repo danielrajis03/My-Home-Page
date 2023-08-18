@@ -2,7 +2,7 @@
 
 
 
-<!--
+<!-----
 About me🚶🏾‍♂️:
 - 🌱 I’m currently studying computer science at the University of Nottingham.
 - 🧠 I'm always eager to learn from experienced seniors and professionals.
@@ -30,3 +30,4 @@ About me🚶🏾‍♂️:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+--->
