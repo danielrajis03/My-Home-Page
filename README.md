@@ -13,7 +13,7 @@ Here are some ideas to get you started:
      nominal fee. 
 
      
-- ![] (https://github.com/danielrajis03/danielrajis03/blob/main/bart%20gotta%20study%20gif.gif)
+- ![](https://github.com/danielrajis03/bartgottastudygif.gif)
 Juggling personal time alongside rigorous computer science studies can be challenging. Don't hesitate to connect with me for insights 
      on achieving a balanced university/personal work dynamic, harmonizing work and life commitments, or any related subjects. I'm always 
      here to offer the best advice I can provide!  
