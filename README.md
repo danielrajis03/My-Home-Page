@@ -10,7 +10,8 @@ About me🚶🏾‍♂️:
 - 💻 I craft CSS/HTML portfolio websites, offering them to fellow students at no cost and extending the service to external clients for a 
      nominal fee. 
 
-   Juggling personal time alongside rigorous computer science studies can be challenging. ![](bartstudy.gif) Don't hesitate to connect with 
+   Juggling personal time alongside rigorous computer science studies can be challenging. ![](bartstudy.gif)
+     💬 Don't hesitate to connect with 
      me for insights 
      on achieving a balanced university/personal work dynamic, harmonizing work and life commitments, or any related subjects. I'm always 
      here to offer the best advice I can provide!  
