@@ -1,8 +1,7 @@
 ### Hi there!👋 My name is Daniel Rajis™️
 
 
-<!--
-**danielrajis03/danielrajis03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 🌱 I’m currently studying computer science at the University of Nottingham.
@@ -14,7 +13,8 @@ Here are some ideas to get you started:
      nominal fee. 
 
      
-- 💬 Juggling personal time alongside rigorous computer science studies can be challenging. Don't hesitate to connect with me for insights 
+- ![] (https://github.com/danielrajis03/danielrajis03/blob/main/bart%20gotta%20study%20gif.gif)
+Juggling personal time alongside rigorous computer science studies can be challenging. Don't hesitate to connect with me for insights 
      on achieving a balanced university/personal work dynamic, harmonizing work and life commitments, or any related subjects. I'm always 
      here to offer the best advice I can provide!  
      
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
