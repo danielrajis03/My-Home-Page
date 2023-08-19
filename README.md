@@ -21,6 +21,11 @@
      holds significant importance for me.
 
 
+<p align="center"> 
+  Visitor Count‼️<br>
+  <img src="https://profile-counter.glitch.me/danielrajis03/count.svg" />
+</p>
+
 ## Extra-curricular pursuits🚀:
 
 - 💻 I craft CSS/HTML portfolio websites, offering them to fellow students at no cost and extending the service to external clients for a 
@@ -56,8 +61,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 How to reach me: 
+<p align="left">
+
+<a href = "www.linkedin.com/in/
+danielrajis03
+"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 
