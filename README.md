@@ -64,8 +64,7 @@
 ## 📫 How to reach me: 
 <p align="left">
 
-<a href = "www.linkedin.com/in/
-danielrajis03
+<a href = "https://www.linkedin.com/in/daniel-rajis-952055256/
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
