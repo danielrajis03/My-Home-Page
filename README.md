@@ -6,7 +6,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<h2 align="center">I'm Daniel Rajis, A Computer Science Undergraduate 👨🏾‍💻📈</h2>  
+<h2 align="center">I'm Daniel Rajis, A Computer Science Graduate 👨🏾‍💻📈</h2>  
   <br/>
 
 ## About me🚶🏾‍♂️:
@@ -15,7 +15,7 @@
   <img align="right" height="150" width="300px" margin-top = "-10px" alt="GIF" src="childishgambinolearning.gif">
 </a>
 
-- 🌱 I’m currently studying computer science at the University of Nottingham.
+- 🌱 I graduated with a 2.1 in computer science at the University of Nottingham.
 - 🧠 I'm always eager to learn from experienced seniors and professionals.
 - 🔭 Presently, I'm engaged in multiple projects, with a particular focus on developing version 2.0 of my existing portfolio website, which 
      holds significant importance for me.
